@@ -24,11 +24,11 @@ repository               : "SeongInHong/seonginhong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Seongin(Seong-In) Hong"
+  name             : "Seongin (Seong-In) Hong"
 # pronouns         : # example: "she/her"  
 # bio              : "Short biography for the left-hand sidebar"
 # location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Virginia"
   uri              : # URL
   email            : "ycq6vs@virginia.edu" 
 
