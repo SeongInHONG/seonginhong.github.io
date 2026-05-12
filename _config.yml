@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Seongin (Seong-In) Hong"
-  pronouns         :   
-  bio              : 
-  location         : 
+  pronouns         : ""  
+  bio              : ""
+  location         : ""
   employer         : "University of Virginia"
-  uri              : 
+  uri              : ""
   email            : "ycq6vs@virginia.edu" 
 
 
