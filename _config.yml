@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Seongin (Seong-In) Hong"
-# pronouns         : # example: "she/her"  
-# bio              : "Short biography for the left-hand sidebar"
-# location         : "Earth"
+  pronouns         :   
+  bio              : 
+  location         : 
   employer         : "University of Virginia"
-  uri              : # URL
+  uri              : 
   email            : "ycq6vs@virginia.edu" 
 
 
